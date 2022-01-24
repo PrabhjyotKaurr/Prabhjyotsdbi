@@ -2,7 +2,7 @@
 - 👀 I’m interested in analysing data 
 - 🌱 I’m currently learning Data Science and Business Intelligence
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me prabhjyot027@gmail.com
+- 📫 How to reach me prabhjyot.kaur@sdbi.in
 
 <!---
 Prabhjyotsdbi/Prabhjyotsdbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
